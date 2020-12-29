@@ -132,6 +132,11 @@ li {
   src: url("/fonts/TheHistoriaDemo.ttf");
 }
 
+@font-face {
+  font-family: "Hellorain";
+  src: url("/fonts/Hellorain.ttf");
+}
+
 .nav-link {
   font-family: "The Historia Demo", sans-serif;
 
@@ -210,8 +215,8 @@ li {
 }
 
 .landing-text h1 {
-  font-size: 20rem;
-  font-family: "The Historia Demo", sans-serif;
+  font-size: 18rem;
+  font-family: "Hellorain", sans-serif;
   background: linear-gradient(to top, #ffe838, #fd57bf);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
