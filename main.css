@@ -55,7 +55,7 @@ img {
 
 .section-heading h1 {
   font-size: 3.5rem;
-  color: rgba(255, 255, 255, 0.3);
+  color: #2f67cd;
   text-transform: uppercase;
   font-weight: 300;
   position: relative;
@@ -355,6 +355,11 @@ i {
 
 /*Start Courses*/
 
+#education-content {
+  text-align: center;
+  font-size: 2rem;
+}
+
 .courses h6 {
   margin-bottom: 4rem;
 }
@@ -373,6 +378,10 @@ i {
   margin: 0 20px;
   margin-bottom: 2rem;
   font-size: 1.5rem;
+}
+
+.courses span {
+  color: rgb(260, 143, 128);
 }
 
 /*End Courses*/
