@@ -30,6 +30,7 @@ a {
 p {
   font-size: 1.8rem;
   font-weight: 300;
+  text-align: justify;
 }
 
 img {
@@ -280,6 +281,10 @@ li {
   color: #0e76a8;
 }
 
+.fa-github-square:hover {
+  color: #211f1f;
+}
+
 /*End about*/
 
 /*Start services*/
@@ -420,6 +425,14 @@ i {
   color: #2f67cd;
 }
 
+#find-a-professor-para {
+  padding-right: 5rem;
+}
+
+#sight-to-sound-para {
+  padding-right: 5rem;
+}
+
 /*End services*/
 
 /*Start timeline*/
@@ -541,6 +554,10 @@ input[type="submit"]:hover {
 }
 /*End contact*/
 
+#copyright-para {
+  text-align: center;
+}
+
 /*Start footer*/
 .copyright {
   width: 100%;
@@ -571,6 +588,10 @@ input[type="submit"]:hover {
 
 .copyright p {
   font-size: 1.4rem;
+}
+
+.fa-envelope:hover {
+  color: #f0821b;
 }
 /*End footer*/
 
