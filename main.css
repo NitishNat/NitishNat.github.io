@@ -290,6 +290,10 @@ li {
   color: #211f1f;
 }
 
+.center-para {
+  text-align: center;
+}
+
 /*End about*/
 
 /*Start services*/
