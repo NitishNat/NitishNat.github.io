@@ -1,0 +1,4 @@
+User-Agent: Googlebot
+Disallow: 
+
+sitemap: http://www.nitishnat.github.io/sitemap.xml
